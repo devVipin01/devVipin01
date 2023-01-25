@@ -8,7 +8,7 @@
 
 I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Data Science development. I ❤️ building ML models and Web applications.
 - 🔭 I’m currently working on Data Science as well as Improving My Problem Solving Skills. 
-- 🔭 Practicing DSA and implement in Java.
+- 🔭 Practicing DSA and implement in Python.
 - 🔭 Currently I am master on Kaggle
 
 ___
